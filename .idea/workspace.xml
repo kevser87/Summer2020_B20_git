@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d738ce76-c83d-464a-a1c8-1cdb8a12d139" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Utility/Zombia_Attack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Utility/Zombia_Attack.java" afterDir="false" />
-    </list>
+    <list default="true" id="d738ce76-c83d-464a-a1c8-1cdb8a12d139" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 public class Zombia_Attack {
-
+  //
         public static void main(String[] args) {
            Scanner input = new Scanner(System.in);
             int[] inhabitants = new int[8];
